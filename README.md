@@ -16,7 +16,7 @@
 
 | 盘符 | Repository | Software | System | Rhythm | Movie | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 1.882 TiB | 532.077 GiB | 2.725 TiB | 182.337 GiB | 1.150 TiB | 584.713 GiB |
+| 大小 | 1.882 TiB | 532.077 GiB | 2.727 TiB | 182.337 GiB | 1.150 TiB | 584.713 GiB |
 | 配额 | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 软件[🔗](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=532.077%20GiB&cacheSeconds=3600)
@@ -58,9 +58,9 @@
 
 -	`FL Studio` 破解版 [🔗](./software/other/flstudio/)
 
-## 🖥 系统 [🔗](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=2.725%20TiB&cacheSeconds=3600)
+## 🖥 系统 [🔗](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=2.727%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `2.725 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
+目前本站共收录了 `2.727 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
 
 -	`Android` 系统的各种 `Recovery 刷机包` [🔗](./system/android/rom/recovery/)、 `Fastboot 刷机包` [🔗](./system/android/rom/fastboot/)、`Firmware 固件` [🔗](./system/android/rom/firmware/)、`Boot 分区镜像` [🔗](./system/android/boot/)、`部分系统软件 APK` [🔗](./system/android/app/)、`Magisk 模块` [🔗](./system/android/magisk/)、`Xposed 模块` [🔗](./system/android/xposed/)、`第三方 Rec` [🔗](./system/android/recovery/) 等
 	
@@ -111,7 +111,7 @@
 
 ## ☁ WebDAV 挂载
 为了方便批量下载，本站提供了 WebDAV 挂载服务  
-⚠非常不建议你因为图一乐或未经与我们协商而进行批量下载行为，因为这可能导致你被列入黑名单  
+⚠非常不建议你因为图一乐或未经协商而进行批量下载行为，因为这可能导致你被列入黑名单  
 如果你需要批量收集本网站上的资源，请务必先与我联系  
 
 | 地址 | 账号 | 密码 |
