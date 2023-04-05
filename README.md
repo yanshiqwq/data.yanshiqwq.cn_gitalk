@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 > 
-> 🔄数据更新时间: `2023/04/05`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
+> 🔄数据更新时间: `2023/04/06`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
 > ⚠本网盘由于资源过于繁杂, 可能会有些未经授权的资源, 如果侵犯了您的权利请联系我删除（）
 >
@@ -18,10 +18,10 @@
 
 | 盘符 | Repository | Software | System | Rhythm | Movie | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 1.961 TiB | 502.250 GiB | 3.032 TiB | 185.071 GiB | 1.137 TiB | 584.521 GiB |
+| 大小 | 1.961 TiB | 502.250 GiB | 3.009 TiB | 185.071 GiB | 1.139 TiB | 584.521 GiB |
 | 配额 | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
-## 💾 软件[🔗](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=502.250%20GiB&cacheSeconds=3600)
+## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=502.250%20GiB&cacheSeconds=3600)
 
 目前本站共收录了 `502.250 GiB` 的各类软件，包括
 
@@ -63,9 +63,9 @@
 
 -	[`FL Studio` 破解版](./software/other/flstudio/)
 
-## 🖥 系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.032%20TiB&cacheSeconds=3600)
+## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.009%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.032 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
+目前本站共收录了 `3.009 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
 
 -	`Android` 系统的各种 [`Recovery 刷机包`](./system/android/rom/recovery/)、 [`Fastboot 刷机包`](./system/android/rom/fastboot/)、[`Firmware 固件`](./system/android/rom/firmware/)、[`Boot 分区镜像`](./system/android/boot/)、[`部分系统软件 APK`](./system/android/app/)、[`Magisk 模块`](./system/android/magisk/)、[`Xposed 模块`](./system/android/xposed/)、[`第三方 Rec`](./system/android/recovery/) 等
 	
@@ -79,7 +79,7 @@
 
 -	~[`PPT 系统`](./system/other/ppt/)~ （问号
 
-## 🥁 音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=185.071%20GiB&cacheSeconds=3600)
+## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=185.071%20GiB&cacheSeconds=3600)
 
 目前本站共收录了 `185.071 GiB` 的部分音游的历史版本，包括
 
@@ -110,7 +110,7 @@
 
 本站还收录了一些其他奇奇怪怪的资源(
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=1.137%20TiB&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=1.139%20TiB&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~泄露资源~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
