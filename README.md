@@ -18,7 +18,7 @@
 
 | 盘符 | Repository | Software | System | Rhythm | Movie | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 1.961 TiB | 502.250 GiB | 2.999 TiB | 185.235 GiB | 1.141 TiB | 584.521 GiB |
+| 大小 | 1.884 TiB | 502.250 GiB | 3.106 TiB | 185.235 GiB | 1.179 TiB | 584.521 GiB |
 | 配额 | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=502.250%20GiB&cacheSeconds=3600)
@@ -63,9 +63,9 @@
 
 -	[`FL Studio` 破解版](./software/other/flstudio/)
 
-## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=2.999%20TiB&cacheSeconds=3600)
+## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.106%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `2.999 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
+目前本站共收录了 `3.106 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
 
 -	`Android` 系统的各种 [`Recovery 刷机包`](./system/android/rom/recovery/)、 [`Fastboot 刷机包`](./system/android/rom/fastboot/)、[`Firmware 固件`](./system/android/rom/firmware/)、[`Boot 分区镜像`](./system/android/boot/)、[`部分系统软件 APK`](./system/android/app/)、[`Magisk 模块`](./system/android/magisk/)、[`Xposed 模块`](./system/android/xposed/)、[`第三方 Rec`](./system/android/recovery/) 等
 	
@@ -89,7 +89,7 @@
 	-	部分加入了 `自制谱` 的 [修改版本](./rhythm/arcaea/fanmade/apk/)
 	-	`Arcade 及其分支` 的部分 [`历史版本`](./rhythm/arcaea/fanmade/arcade/)
 	-	`ArcCreate` 的 [`Windows`](./rhythm/arcaea/fanmade/arccreate/Build-StandaloneWindows64.zip) 和 [`Android`](./rhythm/arcaea/fanmade/arccreate/ArcCreate.apk) 版本
-	-	Arcaea 的 [`壳子`](./rhythm/arcaea/fanmade/base`) (去除官方曲目用于添加自制谱游玩的修改版本)
+	-	Arcaea 的 [`壳子`](./rhythm/arcaea/fanmade/base) (去除官方曲目用于添加自制谱游玩的修改版本)
 	-	我曾经写过的 Arcaea [`自制谱`](./rhythm/arcaea/fanmade/chart_arcfan/)（
 	-	一些别人写的 [`自制谱`](./rhythm/arcaea/fanmade/chart_aff/)（未经授权，如果需要请联系我删除）
 	-	一些实用的 [`小工具`](./rhythm/arcaea/tool/)
@@ -110,7 +110,7 @@
 
 本站还收录了一些其他奇奇怪怪的资源(
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=1.141%20TiB&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=1.179%20TiB&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~泄露资源~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
