@@ -18,7 +18,7 @@
 
 | 盘符 | Repository | Software | System | Rhythm | Movie | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 1.931 TiB | 502.236 GiB | 3.275 TiB | 185.356 GiB | 2.870 TiB | 591.868 GiB |
+| 大小 | 1.931 TiB | 502.236 GiB | 3.275 TiB | 185.356 GiB | 2.871 TiB | 591.868 GiB |
 | 配额 | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=502.236%20GiB&cacheSeconds=3600)
@@ -110,11 +110,12 @@
 
 本站还收录了一些其他奇奇怪怪的资源(
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=2.870%20TiB&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=2.871%20TiB&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~泄露资源~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
 ## ☁ WebDAV 挂载
+
 为了方便批量下载，本站提供了 WebDAV 挂载服务  
 ⚠非常不建议未与我联系而进行的批量下载行为，这可能导致你被列入 WebDAV 黑名单  
 如果你需要批量收集本网站上的资源，请务必先与我联系（  
@@ -124,9 +125,10 @@
 | https://data.yanshiqwq.cn/dav | guest | 114514 |
 
 ## 🙇‍ 特别感谢
+
 - [`@秋葉aaaki`](https://space.bilibili.com/12566101) - 提供 `Stable Diffusion` 入坑教程以及新手向整合包
 - `@维以不戗馨` - 提供大量模型资源 (正在上传)
-
+---
 - [`@而天空`](https://space.bilibili.com/113326488) - 爱发电打赏
 
 ## 📕 更新日志
