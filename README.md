@@ -18,7 +18,7 @@
 
 | 盘符 | Repository | Software | System | Rhythm | Movie | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 1.931 TiB | 502.236 GiB | 3.340 TiB | 185.361 GiB | 2.973 TiB | 591.868 GiB |
+| 大小 | 1.931 TiB | 502.236 GiB | 3.342 TiB | 185.361 GiB | 2.973 TiB | 591.868 GiB |
 | 配额 | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=502.236%20GiB&cacheSeconds=3600)
@@ -63,9 +63,9 @@
 
 -	[`FL Studio` 破解版](./software/other/flstudio/)
 
-## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.340%20TiB&cacheSeconds=3600)
+## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.342%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.340 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
+目前本站共收录了 `3.342 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
 
 -	`Android` 系统的各种 [`Recovery 刷机包`](./system/android/rom/recovery/)、 [`Fastboot 刷机包`](./system/android/rom/fastboot/)、[`Firmware 固件`](./system/android/rom/firmware/)、[`Boot 分区镜像`](./system/android/boot/)、[`部分系统软件 APK`](./system/android/app/)、[`Magisk 模块`](./system/android/magisk/)、[`Xposed 模块`](./system/android/xposed/)、[`第三方 Rec`](./system/android/recovery/) 等
 	
