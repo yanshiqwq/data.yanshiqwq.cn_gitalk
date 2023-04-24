@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 > 
-> 🔄数据更新时间: `2023/04/23`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
+> 🔄数据更新时间: `2023/04/24`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
 > ⚠本网盘由于资源过于繁杂, 可能会有些未经授权的资源, 如果侵犯了您的权利请联系我删除（）
 >
@@ -18,7 +18,7 @@
 
 | 盘符 | Repository | Software | System | Rhythm | Movie | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 1.931 TiB | 502.236 GiB | 3.342 TiB | 185.361 GiB | 2.973 TiB | 591.868 GiB |
+| 大小 | 1.931 TiB | 502.236 GiB | 3.292 TiB | 185.361 GiB | 3.124 TiB | 603.895 GiB |
 | 配额 | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=502.236%20GiB&cacheSeconds=3600)
@@ -63,9 +63,9 @@
 
 -	[`FL Studio` 破解版](./software/other/flstudio/)
 
-## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.342%20TiB&cacheSeconds=3600)
+## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=3.292%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.342 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
+目前本站共收录了 `3.292 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
 
 -	`Android` 系统的各种 [`Recovery 刷机包`](./system/android/rom/recovery/)、 [`Fastboot 刷机包`](./system/android/rom/fastboot/)、[`Firmware 固件`](./system/android/rom/firmware/)、[`Boot 分区镜像`](./system/android/boot/)、[`部分系统软件 APK`](./system/android/app/)、[`Magisk 模块`](./system/android/magisk/)、[`Xposed 模块`](./system/android/xposed/)、[`第三方 Rec`](./system/android/recovery/) 等
 	
@@ -110,7 +110,7 @@
 
 本站还收录了一些其他奇奇怪怪的资源(
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=2.973%20TiB&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=3.124%20TiB&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~泄露资源~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
@@ -138,6 +138,7 @@
 
 | 日期 | 日志 |
 | - | - |
+| 2023/04/24 | 换用 SakuraFrp (+ CloudFlare) |
 | 2023/04/13 | 换用星辰云服务器 + CloudFlare |
 | 2023/04/11 | 由于 `afrps.cn` 连不上导致服务器掉线 48 小时 |
 | 2023/04/05 | 修改 `README.md` 里丑到爆炸的链接 emoji (🔗 |
