@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 > 
-> 🔄数据更新时间: `2023/05/15`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
+> 🔄数据更新时间: `2023/05/17`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
 > ⚠本网盘由于资源过于繁杂, 可能会有些未经授权的资源, 如果侵犯了您的权利请联系我删除（）
 >
@@ -18,12 +18,12 @@
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - |
-| 大小 | [total_odusage] | 128.741 GiB | 5.014 GiB | 1.853 TiB | 187.912 GiB | 3.809 TiB | [mov2_01_odusage] | 642.366 GiB |
+| 大小 | [total_odusage] | 128.741 GiB | 5.445 GiB | 1.853 TiB | 187.912 GiB | 3.809 TiB | [mov2_01_odusage] | 646.228 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
-## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=5.014%20GiB&cacheSeconds=3600)
+## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=5.445%20GiB&cacheSeconds=3600)
 
-目前本站共收录了 `5.014 GiB` 的各类软件，包括
+目前本站共收录了 `5.445 GiB` 的各类软件，包括
 
 -	来自 `@vposy` 和部分来自其他渠道的 [破解版 `Adobe` 软件](./software/adobe/)
 
