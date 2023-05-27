@@ -2,23 +2,27 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 > 
-> 🔄数据更新时间: `2023/05/27`，🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
+> 🔄数据更新时间: `2023/05/27`
+>
+> 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
 > ⚠本网盘由于资源过于繁杂, 可能会有些未经授权的资源, 如果侵犯了您的权利请联系我删除（）
 >
 > 联系我：📧 [邮箱](mailto:yanshiqwq@126.com) / 📺 [BiliBili](https://space.bilibili.com/431304449)
 >
-> 聊天群：💬 [885182351](https://jq.qq.com/?_wv=1027&k=gHfN8ogz)（
+> 个人聊天群：💬 [885182351](https://jq.qq.com/?_wv=1027&k=gHfN8ogz)（
 > 
 > 欢迎投喂：🔋 [爱发电](https://afdian.net/a/yanshiqwq)（）
 >
-> 欢迎在下方评论区提出你的意见！( 评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk) )
+> 欢迎在下方评论区提出你的意见！(评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk))
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=10.473%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=10.475%20TiB&cacheSeconds=3600)
+
+
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | 10.473 TiB | 128.859 GiB | 3.157 TiB | 1.853 TiB | 190.037 GiB | 4.521 TiB | 1.513 MiB | 646.228 GiB |
+| 大小 | 10.475 TiB | 128.898 GiB | 3.157 TiB | 1.853 TiB | 190.123 GiB | 4.523 TiB | 1.513 MiB | 646.228 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.157%20TiB&cacheSeconds=3600)
@@ -53,9 +57,9 @@
 		-	Java 版 [`光影包`](./software/game/mc/shaderpack/)
 		-	Java 版部分公开的 [`服务器存档`](./software/game/mc/save/)
 
--	一些从别的网盘下到的 [`Galgame` 资源](./software/game/galgame/)（虽然我一个都没有玩过（（
+-	一些从别的网盘下到的 [`Galgame` 资源](./software/game/galgame/)（虽然我一个都没有玩过但有人想要就传上来了（（
 
--	[`LLaMA` 泄露模型](./software/other/pyllama/) (正在上传)
+-	[`LLaMA` 泄露模型](./software/other/pyllama/)
 
 -	[`玩客云`](./software/other/wankeyun/) 、[`NAS`](./software/other/nas/) 相关资源
 
@@ -73,32 +77,28 @@
 
 -	`Linux` 系统的各种 [烧录镜像、ISO镜像](./system/linux/)
 
--	`MacOS` 系统的各种 [系统镜像](./system/macos/)（未经测试，如果测试通过请联系我为文件添加标签)
+-	`MacOS` 系统的各种 [系统镜像](./system/macos/) (未经测试，如果测试通过请联系我为文件添加标签)
 
 -	`Windows` 系统的各种 [正式版](./system/windows/releases/)、[测试版](./system/windows/beta/)、[修改版](./system/windows/edit/)、[更新包](./system/windows/updates/)、[系统补丁 / 相关脚本](./system/windows/patches/)、[PE系统](./system/windows/winpe/) 资源 (除正式版外其他文件请自行辨别安全性)
 
 -	~[`PPT 系统`](./system/other/ppt/)~ （问号
 
-## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=190.037%20GiB&cacheSeconds=3600)
+## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=190.123%20GiB&cacheSeconds=3600)
 
-目前本站共收录了 `190.037 GiB` 的部分音游的历史版本，包括
+目前本站共收录了 `190.123 GiB` 的部分音游的历史版本，包括
 
 -	`Arcaea` 的部分历史版本，包括 [安卓国内版](./rhythm/arcaea/android/) (带有 `c` 后缀，比如 `arcaea_v4.2.1c_arm64-v8a.apk` ) 、[Play 版](./rhythm/arcaea/android/play/) 、[NS 版](./rhythm/arcaea/ns/) 和 [iOS 版](./rhythm/arcaea/ios/)
 
-	-	部分 Arcaea 的 [`修改` / `破解` 版本](./rhythm/arcaea/android/patch/) 
-	-	部分加入了 `自制谱` 的 [修改版本](./rhythm/arcaea/fanmade/apk/)
-	-	`Arcade 及其分支` 的部分 [`历史版本`](./rhythm/arcaea/fanmade/arcade/)
+	-	部分 Arcaea 的 [`修改` / `破解` 版本](./rhythm/arcaea/android/patch/)
 	-	`ArcCreate` 的 [`Windows`](./rhythm/arcaea/fanmade/arccreate/Build-StandaloneWindows64.zip) 和 [`Android`](./rhythm/arcaea/fanmade/arccreate/ArcCreate.apk) 版本
 	-	Arcaea 的 [`壳子`](./rhythm/arcaea/fanmade/base) (去除官方曲目用于添加自制谱游玩的修改版本)
-	-	我曾经写过的 Arcaea [`自制谱`](./rhythm/arcaea/fanmade/chart_arcfan/)（
-	-	一些别人写的 [`自制谱`](./rhythm/arcaea/fanmade/chart_aff/)（未经授权，如果需要请联系我删除）
+	-	我曾经写过的 Arcaea [`自制谱`](./rhythm/arcaea/fanmade/chart_arcfan/)
 	-	一些实用的 [`小工具`](./rhythm/arcaea/tool/)
 	-	Arcaea 的 [`官方谱面文件合集`](./rhythm/arcaea/songs/)
 	-	我整的一些可以用于 `songlist 处理` 和 `songs 文件夹生成` 的 [小工具](./rhythm/arcaea/fanmade/merge_tool/)（
 
 -	`Phigros` 几乎所有历史版本，包括 [`国际版`](./rhythm/phigros/android/global/) 、[`Play 版`](./rhythm/phigros/android/play/) 、[`TapTap 版`](./rhythm/phigros/android/) (包括共存版) 和 [`iOS 版`](./rhythm/phigros/ios/) (包括共存版)
 
-	-	一些别人写的 [`自制谱`](./rhythm/phigros/fanmade/)（未经授权，如果需要请联系我删除）
 	-	[`鸽游全部动态链接`](./rhythm/phigros/link/)
 	-	一些实用的 [`小工具`](./rhythm/phigros/tool/)
 
@@ -108,16 +108,17 @@
 
 ## 🤔 其他 
 
-本站还收录了一些其他奇奇怪怪的资源(
+本站还收录了一些其他奇奇怪怪的资源（
 
 - 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov1_odusage_urlenc]&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov2_odusage_urlenc]&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
-- 🔎 [~泄露资源~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
+- 🔎 [~~泄露资源~~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
 ## ☁ WebDAV 挂载
 
 为了方便批量下载，本站提供了 WebDAV 挂载服务  
-⚠非常不建议未与我联系而进行的批量下载行为，这可能导致你被列入 WebDAV 黑名单  
+
+⚠非常不建议未与我联系而进行的批量下载行为（）  
 如果你需要批量收集本网站上的资源，请务必先与我联系（  
 
 | 地址 | 账号 | 密码 |
@@ -129,18 +130,20 @@
 - [`@秋葉aaaki`](https://space.bilibili.com/12566101) - 提供 `Stable Diffusion` 入坑教程以及新手向整合包
 - `@维以不戗馨` - 提供大量模型资源 (正在上传)
 
+以及：
+
 | 打赏人 | 打赏金额 |
 | - | - |
 | [@而天空](https://space.bilibili.com/113326488) | 39.00￥ |
 | @woxizzy | 39.00￥ |
 
-## 📕 更新日志
+## 📕 网站日志
 
 | 日期 | 日志 |
 | - | - |
-| 2023/05/15 | 2023/04/06 本站使用的原 Onedrive 订阅被微软强制过期，已全部迁移到新订阅 |
-| 2023/04/24 | 换用 SakuraFrp (+ CloudFlare) |
-| 2023/04/13 | 换用星辰云服务器 + CloudFlare |
+| 2023/05/15 | 4月6日本站使用的原 Onedrive 订阅（`yanshiqwq`）被微软强制过期，已全部迁移到新订阅（`yanshiqwq01`） |
+| 2023/04/24 | 换用 `SakuraFrp` + `CloudFlare` |
+| 2023/04/13 | 换用 `星辰云` + `CloudFlare` |
 | 2023/04/11 | 由于 `afrps.cn` 连不上导致服务器掉线 48 小时 |
 | 2023/04/05 | 修改 `README.md` 里丑到爆炸的链接 emoji (🔗 |
 | 2023/04/02 | 修改首页 `README.md` 文件 |
@@ -148,5 +151,5 @@
 | 2023/04/02 | 开放了打包下载功能 |
 | 2023/04/01 | 增加了评论区功能 |
 | 2023/03/30 | 分盘占用情况改用程序自动更新 |
-| 2022/04/12 | 换用了 `Alist` 作为网盘程序 (原来用的OneManager) |
+| 2022/04/12 | 换用了 [`Alist`](https://alist.nn.ci/) 作为网盘程序 (原来用的 [`OneManager`](https://github.com/qkqpttgf/OneManager-php) ) |
 | 2021/02/07 | 网站成功建立 () |
