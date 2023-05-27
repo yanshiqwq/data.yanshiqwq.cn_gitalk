@@ -16,13 +16,13 @@
 >
 > 欢迎在下方评论区提出你的意见！(评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk))
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=10.475%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=10.476%20TiB&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | 10.475 TiB | 128.898 GiB | 3.157 TiB | 1.853 TiB | 190.123 GiB | 4.523 TiB | 1.513 MiB | 646.228 GiB |
+| 大小 | 10.476 TiB | 128.922 GiB | 3.157 TiB | 1.853 TiB | 190.170 GiB | 4.524 TiB | 1.513 MiB | 646.228 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.157%20TiB&cacheSeconds=3600)
@@ -83,9 +83,9 @@
 
 -	~[`PPT 系统`](./system/other/ppt/)~ （问号
 
-## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=190.123%20GiB&cacheSeconds=3600)
+## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=190.170%20GiB&cacheSeconds=3600)
 
-目前本站共收录了 `190.123 GiB` 的部分音游的历史版本，包括
+目前本站共收录了 `190.170 GiB` 的部分音游的历史版本，包括
 
 -	`Arcaea` 的部分历史版本，包括 [安卓国内版](./rhythm/arcaea/android/) (带有 `c` 后缀，比如 `arcaea_v4.2.1c_arm64-v8a.apk` ) 、[Play 版](./rhythm/arcaea/android/play/) 、[NS 版](./rhythm/arcaea/ns/) 和 [iOS 版](./rhythm/arcaea/ios/)
 
