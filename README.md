@@ -110,7 +110,7 @@
 
 本站还收录了一些其他奇奇怪怪的资源（
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov1_odusage_urlenc]&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov2_odusage_urlenc]&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=4.866%20TiB&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=3.155%20TiB&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~~泄露资源~~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
