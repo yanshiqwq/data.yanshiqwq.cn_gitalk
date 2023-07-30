@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 > 
-> 🔄数据更新时间: `2023/07/11`
+> 🔄数据更新时间: `2023/07/30`
 >
 > 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
@@ -16,18 +16,18 @@
 >
 > 欢迎在下方评论区提出你的意见！(评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk))
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=14.024%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=14.974%20TiB&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | 14.024 TiB | 95.221 GiB | 3.237 TiB | 1.853 TiB | 194.204 GiB | 4.866 TiB | 3.155 TiB | 646.231 GiB |
+| 大小 | 14.974 TiB | 95.221 GiB | 3.628 TiB | 1.866 TiB | 198.662 GiB | 4.866 TiB | 3.695 TiB | 646.492 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
-## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.237%20TiB&cacheSeconds=3600)
+## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.628%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.237 TiB` 的各类软件，包括
+目前本站共收录了 `3.628 TiB` 的各类软件，包括
 
 -	来自 `@vposy` 和部分来自其他渠道的 [破解版 `Adobe` 软件](./software/adobe/)
 
@@ -67,9 +67,9 @@
 
 -	[`FL Studio` 破解版](./software/other/flstudio/)
 
-## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=1.853%20TiB&cacheSeconds=3600)
+## 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=Microsoft%20OneDrive&label=1.866%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `1.853 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
+目前本站共收录了 `1.866 TiB` 的各类 `系统镜像` 及 `刷机资源` ，包括
 
 -	`Android` 系统的各种 [`Recovery 刷机包`](./system/android/rom/recovery/)、 [`Fastboot 刷机包`](./system/android/rom/fastboot/)、[`Firmware 固件`](./system/android/rom/firmware/)、[`Boot 分区镜像`](./system/android/boot/)、[`部分系统软件 APK`](./system/android/app/)、[`Magisk 模块`](./system/android/magisk/)、[`Xposed 模块`](./system/android/xposed/)、[`第三方 Rec`](./system/android/recovery/) 等
 	
@@ -83,9 +83,9 @@
 
 -	~[`PPT 系统`](./system/other/ppt/)~ （问号
 
-## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=194.204%20GiB&cacheSeconds=3600)
+## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=198.662%20GiB&cacheSeconds=3600)
 
-目前本站共收录了 `194.204 GiB` 的部分音游的历史版本，包括
+目前本站共收录了 `198.662 GiB` 的部分音游的历史版本，包括
 
 -	`Arcaea` 的部分历史版本，包括 [安卓国内版](./rhythm/arcaea/android/) (带有 `c` 后缀，比如 `arcaea_v4.2.1c_arm64-v8a.apk` ) 、[Play 版](./rhythm/arcaea/android/play/) 、[NS 版](./rhythm/arcaea/ns/) 和 [iOS 版](./rhythm/arcaea/ios/)
 
@@ -110,7 +110,7 @@
 
 本站还收录了一些其他奇奇怪怪的资源（
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=4.866%20TiB&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=3.155%20TiB&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=4.866%20TiB&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=3.695%20TiB&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~~泄露资源~~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
@@ -141,8 +141,9 @@
 
 | 日期 | 日志 |
 | - | - |
-| 2023/07/10 | 换用 [`afrps`](https://afrps.cn/)，主页 Markdown 镜像改用 [`ghproxy`](https://ghproxy.com/) 
-| 2023/05/15 | 4月6日本站使用的原 Onedrive 订阅（`yanshiqwq`）被微软强制过期，已全部迁移到新订阅（`yanshiqwq01`） |
+| 2023/07/30 | 换用 `Cloudflared` |
+| 2023/07/10 | 换用 [`afrps`](https://afrps.cn/)，主页 Markdown 镜像改用 [`ghproxy`](https://ghproxy.com/) |
+| 2023/05/15 | 4月6日本站使用的原 OneDrive 订阅（`yanshiqwq`）被微软强制过期，已全部迁移到新订阅（`yanshiqwq01`） |
 | 2023/04/24 | 换用 [`SakuraFrp`](https://www.natfrp.com/) |
 | 2023/04/13 | 换用 [`星辰云`](https://starxn.com/)，套了个 [`CloudFlare`](https://www.cloudflare.com/) 的~~减速~~ CDN |
 | 2023/04/11 | 由于 [`afrps`](https://afrps.cn/) 连不上导致服务器掉线 48 小时 |
