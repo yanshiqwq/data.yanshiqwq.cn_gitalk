@@ -92,11 +92,10 @@ try:
         usage_dict[name] = usage
         total_usage += usage
         logging.info(f'{name} 的 OneDrive 使用情况获取成功')
-    usage_dict["total"] = total_usage
-    logging.info(usage_dict)
 except Exception as e:
     logging.error(f'获取 OneDrive 使用情况失败：{e}')
-
+usage_dict["total"] = total_usage
+logging.info(usage_dict)
 
 # 读取模板文件内容
 with open(args.input, 'r', encoding='utf-8') as input_file:
