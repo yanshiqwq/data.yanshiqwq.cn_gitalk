@@ -78,7 +78,6 @@ def get_usage(access_token, name):
         # 将该账户的使用情况存入 usage_dict
         usage_dict[name] = usage
         logging.info(f'{name} 的 OneDrive 使用情况为：{humanize.naturalsize(usage, binary=True, format="%.3f")}')
-        total_usage += usage
         return usage
     except Exception as e:
         logging.error(f'获取 {name} OneDrive 使用情况失败：{e}')
