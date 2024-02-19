@@ -16,13 +16,13 @@
 >
 > 欢迎在下方评论区提出你的意见！(评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk))
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=[total__odusage_urlenc]&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=[total_odusage_urlenc]&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | [total__odusage] | 95.154 GiB | 3.631 TiB | 1.866 TiB | 209.905 GiB | 4.864 TiB | 3.693 TiB | 646.270 GiB |
+| 大小 | [total_odusage] | 95.154 GiB | 3.631 TiB | 1.866 TiB | 209.905 GiB | 4.864 TiB | 3.693 TiB | 646.270 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.631%20TiB&cacheSeconds=3600)
