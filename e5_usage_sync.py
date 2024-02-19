@@ -78,6 +78,7 @@ def get_usage(access_token, name):
         # 将该账户的使用情况存入 usage_dict
         usage_dict[name] = usage
         logging.info(f'{name} 的 OneDrive 使用情况为：{humanize.naturalsize(usage, binary=True, format="%.3f")}')
+        total_usage += usage
         return usage
     except Exception as e:
         logging.error(f'获取 {name} OneDrive 使用情况失败：{e}')
@@ -91,7 +92,7 @@ try:
         access_token = get_access_token(refresh_token)
         total_usage += get_usage(access_token, name)
         logging.info(f'{name} 的 OneDrive 使用情况获取成功')
-    usage_dict["total"] = total_usage
+    usage_dict["total_"] = total_usage
 except Exception as e:
     logging.error(f'获取 OneDrive 使用情况失败：{e}')
 
@@ -102,8 +103,7 @@ with open(args.input, 'r', encoding='utf-8') as input_file:
 
 # 替换模板文件中的占位符为实际的 OneDrive 使用情况
 input_content = input_content.replace(f'[modifydate_e5usagesync]', datetime.datetime.now().strftime("%Y/%m/%d"))
-for item in refresh_tokens:
-    name = item['name']
+for name in usage_dict:
     usage = usage_dict.get(name)
     usage_str = humanize.naturalsize(usage, binary=True, format="%.3f")
     # 将模板文件中的占位符替换为实际的 OneDrive 使用情况
