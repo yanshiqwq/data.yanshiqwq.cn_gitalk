@@ -76,7 +76,7 @@ def get_usage(access_token, name):
         response = requests.get(url, headers=headers)
         usage = json.loads(response.text)['quota']['used']
         logging.info(f'{name} 的 OneDrive 使用情况为：{humanize.naturalsize(usage, binary=True, format="%.3f")}')
-        return int(usage)
+        return usage
     except Exception as e:
         logging.error(f'获取 {name} OneDrive 使用情况失败：{e}')
 
@@ -91,10 +91,9 @@ try:
         usage = get_usage(access_token, name)
         usage_dict[name] = usage
         total_usage += usage
-        logging.info(usage)
-        logging.info(total_usage)
         logging.info(f'{name} 的 OneDrive 使用情况获取成功')
     usage_dict["total"] = total_usage
+    logging.info(usage_dict)
 except Exception as e:
     logging.error(f'获取 OneDrive 使用情况失败：{e}')
 
