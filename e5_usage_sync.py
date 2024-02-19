@@ -1,6 +1,5 @@
 # 本程序及对应的配置文件均为 ChatGPT 编写
 
-import sys
 import requests
 import json
 import humanize
@@ -42,7 +41,6 @@ if 'refresh_tokens' not in config or not config['refresh_tokens']:
 client_id = config['client_id']
 client_secret = config['client_secret']
 refresh_tokens = config['refresh_tokens']
-refresh_tokens.append({"name": "total"})
 
 # 用于存储不同账户的使用情况，格式为 {token名称: 占用大小}
 usage_dict = {}
@@ -63,7 +61,6 @@ def get_access_token(refresh_token):
     access_token = json.loads(response.text)['access_token']
     return access_token
 
-total_usage = 0
 
 # 获取 OneDrive storage usage
 def get_usage(access_token, name):
@@ -78,7 +75,6 @@ def get_usage(access_token, name):
         # 将该账户的使用情况存入 usage_dict
         usage_dict[name] = usage
         logging.info(f'{name} 的 OneDrive 使用情况为：{humanize.naturalsize(usage, binary=True, format="%.3f")}')
-        return usage
     except Exception as e:
         logging.error(f'获取 {name} OneDrive 使用情况失败：{e}')
 
@@ -89,9 +85,8 @@ try:
         refresh_token = item['token']
         name = item['name']
         access_token = get_access_token(refresh_token)
-        total_usage += get_usage(access_token, name)
+        get_usage(access_token, name)
         logging.info(f'{name} 的 OneDrive 使用情况获取成功')
-    usage_dict["total"] = total_usage
 except Exception as e:
     logging.error(f'获取 OneDrive 使用情况失败：{e}')
 
@@ -104,7 +99,7 @@ with open(args.input, 'r', encoding='utf-8') as input_file:
 input_content = input_content.replace(f'[modifydate_e5usagesync]', datetime.datetime.now().strftime("%Y/%m/%d"))
 for item in refresh_tokens:
     name = item['name']
-    usage = usage_dict.get(name)
+    usage = usage_dict.get(name, '-')
     usage_str = humanize.naturalsize(usage, binary=True, format="%.3f")
     # 将模板文件中的占位符替换为实际的 OneDrive 使用情况
     input_content = input_content.replace(f'[{name}_odusage]', usage_str)
