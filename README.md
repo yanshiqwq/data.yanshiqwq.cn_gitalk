@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 > 
-> 🔄数据更新时间: `2024/02/20`
+> 🔄数据更新时间: `2024/05/18`
 >
 > 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
@@ -16,18 +16,18 @@
 >
 > 欢迎在下方评论区提出你的意见！(评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk))
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=14.983%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=5.898%20TiB&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | 14.983 TiB | 95.154 GiB | 3.631 TiB | 1.866 TiB | 209.905 GiB | 4.864 TiB | 3.693 TiB | 646.270 GiB |
+| 大小 | 5.898 TiB | 95.170 GiB | 3.721 TiB | 1.866 TiB | 223.667 GiB | [mov1_01_odusage] | [mov2_01_odusage] | [med_01_odusage] |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
-## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.631%20TiB&cacheSeconds=3600)
+## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.721%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.631 TiB` 的各类软件，包括
+目前本站共收录了 `3.721 TiB` 的各类软件，包括
 
 -	来自 `@vposy` 和部分来自其他渠道的 [破解版 `Adobe` 软件](./software/adobe/)
 
@@ -83,9 +83,9 @@
 
 -	~[`PPT 系统`](./system/other/ppt/)~ （问号
 
-## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=209.905%20GiB&cacheSeconds=3600)
+## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=223.667%20GiB&cacheSeconds=3600)
 
-目前本站共收录了 `209.905 GiB` 的部分音游的历史版本，包括
+目前本站共收录了 `223.667 GiB` 的部分音游的历史版本，包括
 
 -	`Arcaea` 的部分历史版本，包括 [安卓国内版](./rhythm/arcaea/android/) (带有 `c` 后缀，比如 `arcaea_v4.2.1c_arm64-v8a.apk` ) 、[Play 版](./rhythm/arcaea/android/play/) 、[NS 版](./rhythm/arcaea/ns/) 和 [iOS 版](./rhythm/arcaea/ios/)
 
@@ -110,7 +110,7 @@
 
 本站还收录了一些其他奇奇怪怪的资源（
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=4.864%20TiB&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=3.693%20TiB&cacheSeconds=3600)	
+- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov1_01_odusage_urlenc]&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov2_01_odusage_urlenc]&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~~泄露资源~~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
