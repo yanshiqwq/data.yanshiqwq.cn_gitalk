@@ -1,7 +1,7 @@
 # 📦 延时の奇妙网盘
 
 > 一个收集各路奇怪资源的分享站awa 
-> 
+>
 > 🔄数据更新时间: `2024/05/18`
 >
 > 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
@@ -10,19 +10,19 @@
 >
 > 联系我：📧 [邮箱](mailto:yanshiqwq@126.com) / 📺 [BiliBili](https://space.bilibili.com/431304449)
 >
-> 个人聊天群：💬 [885182351](https://jq.qq.com/?_wv=1027&k=gHfN8ogz)（
-> 
+> 个人聊天群：💬 [885182351](https://jq.qq.com/?_wv=1027&k=gHfN8ogz)
+>
 > 欢迎投喂：🔋 [爱发电](https://afdian.net/a/yanshiqwq)（）
 >
-> 欢迎在下方评论区提出你的意见！(评论模块使用 [`Gitalk`](https://github.com/gitalk/gitalk))
+> 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=5.898%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.529%20TiB&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | 5.898 TiB | 95.170 GiB | 3.721 TiB | 1.866 TiB | 223.667 GiB | [mov1_01_odusage] | [mov2_01_odusage] | [med_01_odusage] |
+| 大小 | 6.529 TiB | 95.170 GiB | 3.721 TiB | 1.866 TiB | 223.667 GiB | [mov1_01_odusage] | [mov2_01_odusage] | 646.336 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.721%20TiB&cacheSeconds=3600)
@@ -153,5 +153,5 @@
 | 2023/04/02 | 开放了打包下载功能 |
 | 2023/04/01 | 增加了评论区功能 |
 | 2023/03/30 | 分盘占用情况改用程序自动更新 |
-| 2022/04/12 | 换用了 [`Alist`](https://alist.nn.ci/) 作为网盘程序 (原来用的 [`OneManager`](https://github.com/qkqpttgf/OneManager-php) ) |
+| 2022/04/12 | 换用了 [`Alist`](https://alist.nn.ci/) 作为网盘程序 |
 | 2021/02/07 | 网站成功建立 () |
