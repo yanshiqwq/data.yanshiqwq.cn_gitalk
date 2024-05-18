@@ -6,4 +6,3 @@ set dt=%dtTmp: =0%
 git add *
 git commit -m %dt%
 git push
-pause
