@@ -127,7 +127,6 @@
 ## 🙇‍ 特别感谢
 
 - [`@秋葉aaaki`](https://space.bilibili.com/12566101) - 提供 `Stable Diffusion` 入坑教程以及新手向整合包
-- `@维以不戗馨` - 提供大量模型资源 (正在上传)
 
 以及：
 
