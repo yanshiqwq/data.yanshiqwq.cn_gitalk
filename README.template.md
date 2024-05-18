@@ -21,7 +21,7 @@
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Media |
-| - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
 | 大小 | [total_odusage] | [rep_01_odusage] | [sw_01_odusage] | [sys_01_odusage] | [rhy_01_odusage] | [med_01_odusage] |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 

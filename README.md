@@ -21,7 +21,7 @@
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Media |
-| - | - | - | - | - | - | - | - | - |
+| - | - | - | - | - | - | - |
 | 大小 | 6.529 TiB | 95.170 GiB | 3.721 TiB | 1.866 TiB | 223.667 GiB | 646.336 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
