@@ -20,10 +20,10 @@
 
 
 
-| 盘符 | Total | Repository | Software | System | Rhythm | Movie01 | Movie02 | Media |
+| 盘符 | Total | Repository | Software | System | Rhythm | Media |
 | - | - | - | - | - | - | - | - | - |
-| 大小 | 6.529 TiB | 95.170 GiB | 3.721 TiB | 1.866 TiB | 223.667 GiB | [mov1_01_odusage] | [mov2_01_odusage] | 646.336 GiB |
-| 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0TB |
+| 大小 | 6.529 TiB | 95.170 GiB | 3.721 TiB | 1.866 TiB | 223.667 GiB | 646.336 GiB |
+| 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.721%20TiB&cacheSeconds=3600)
 
@@ -110,7 +110,6 @@
 
 本站还收录了一些其他奇奇怪怪的资源（
 
-- 🎞 [电影资源](./movie/) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov1_01_odusage_urlenc]&cacheSeconds=3600) ![](https://img.shields.io/badge/Movie-orange?logo=Microsoft%20OneDrive&label=[mov2_01_odusage_urlenc]&cacheSeconds=3600)	
 - 🎶 [音乐资源](./media/audio/CloudMusic/) ![](https://img.shields.io/badge/Media%2fMusic-green?logo=Microsoft%20OneDrive&label=22.39%20GiB&cacheSeconds=3600)
 - 🔎 [~~泄露资源~~](./share/zip/leak/) ![](https://img.shields.io/badge/Repository%2fLeak-green?logo=Microsoft%20OneDrive&label=182.84%20GiB&cacheSeconds=3600)
 
