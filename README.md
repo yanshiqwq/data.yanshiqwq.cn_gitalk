@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 >
-> 🔄数据更新时间: `2024/11/01`
+> 🔄数据更新时间: `2024/11/02`
 >
 > 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
@@ -22,7 +22,7 @@
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 6.532 TiB | 95.165 GiB | 3.721 TiB | 1.866 TiB | 225.785 GiB | 646.420 GiB |
+| 大小 | 6.532 TiB | 95.165 GiB | 3.721 TiB | 1.866 TiB | 225.785 GiB | 646.417 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
 ## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.721%20TiB&cacheSeconds=3600)
