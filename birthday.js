@@ -40,17 +40,10 @@ function updateDateTime() {
 }
 
 // 页面加载完成后执行
-document.addEventListener('DOMContentLoaded', updateDateTime);
-document.addEventListener('DOMContentLoaded', function() {
+document.addEventListener('load', updateDateTime);
+document.addEventListener('load', function() {
     // 创建要插入的HTML内容
     var htmlContent = `
-        <center style='color:#aaa'>
-            <span id="busuanzi_container_page_pv" style='display:none'>
-                本页浏览量：<span id="busuanzi_value_page_pv"><i class="fa fa-spinner fa-spin"></i></span><br/>
-                访问量：<span id="busuanzi_value_site_pv"><i class="fa fa-spinner fa-spin"></i></span> | 访客数：<span id="busuanzi_value_site_uv"><i class="fa fa-spinner fa-spin"></i></span>
-            </span>
-        </center>
-
         <div style="text-align:center;line-height:30px;height:30px;color:#aaaaaa">
             <span>本站已运行</span> <span id=span_dt_dt></span>
         </div>
