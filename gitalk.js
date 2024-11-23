@@ -1,6 +1,6 @@
 // Gitalk 初始化
 function initializeGitalk() {
-    const gitalkContainer = document.getElementById('gitalk-container') || document.createElement('div');
+    const gitalkContainer = document.getElementById('gitalk-container') || document.body.createElement('div');
     gitalkContainer.id = 'gitalk-container';
     gitalkContainer.className = 'hope-c-PJLV hope-c-PJLV-igScBhH-css hope-c-PJLV-ikSuVsl-css';
     document.getElementsByClassName("body hope-stack")[0].appendChild(gitalkContainer);
