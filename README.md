@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 >
-> 🔄数据更新时间: `2024/12/07`
+> 🔄数据更新时间: `2024/12/08`
 >
 > 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
@@ -16,18 +16,18 @@
 >
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.532%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.533%20TiB&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 6.532 TiB | 95.167 GiB | 3.721 TiB | 1.866 TiB | 225.785 GiB | 646.416 GiB |
+| 大小 | 6.533 TiB | 95.167 GiB | 3.723 TiB | 1.866 TiB | 225.785 GiB | 646.416 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
-## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.721%20TiB&cacheSeconds=3600)
+## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.723%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.721 TiB` 的各类软件，包括
+目前本站共收录了 `3.723 TiB` 的各类软件，包括
 
 -	来自 `@vposy` 和部分来自其他渠道的 [破解版 `Adobe` 软件](./software/adobe/)
 
