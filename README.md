@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站awa 
 >
-> 🔄数据更新时间: `2024/12/13`
+> 🔄数据更新时间: `2024/12/14`
 >
 > 🛠️数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2Fe5_usage_sync%2F&link=https%3A%2F%2Fgithub.com%2Fyanshiqwq%2F&cacheSeconds=3600)
 >
@@ -16,18 +16,18 @@
 >
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.532%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.534%20TiB&cacheSeconds=3600)
 
 
 
 | 盘符 | Total | Repository | Software | System | Rhythm | Media |
 | - | - | - | - | - | - | - |
-| 大小 | 6.532 TiB | 95.167 GiB | 3.721 TiB | 1.866 TiB | 225.785 GiB | 646.416 GiB |
+| 大小 | 6.534 TiB | 95.167 GiB | 3.723 TiB | 1.866 TiB | 226.399 GiB | 646.416 GiB |
 | 配额 | 125.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB | 5.0 TB |
 
-## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.721%20TiB&cacheSeconds=3600)
+## 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=Microsoft%20OneDrive&label=3.723%20TiB&cacheSeconds=3600)
 
-目前本站共收录了 `3.721 TiB` 的各类软件，包括
+目前本站共收录了 `3.723 TiB` 的各类软件，包括
 
 -	来自 `@vposy` 和部分来自其他渠道的 [破解版 `Adobe` 软件](./software/adobe/)
 
@@ -83,9 +83,9 @@
 
 -	~[`PPT 系统`](./system/other/ppt/)~ （问号
 
-## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=225.785%20GiB&cacheSeconds=3600)
+## 🥁 [音游](./rhythm/) ![](https://img.shields.io/badge/Rhythm-orange?logo=Microsoft%20OneDrive&label=226.399%20GiB&cacheSeconds=3600)
 
-目前本站共收录了 `225.785 GiB` 的部分音游的历史版本，包括
+目前本站共收录了 `226.399 GiB` 的部分音游的历史版本，包括
 
 -	`Arcaea` 的部分历史版本，包括 [安卓国内版](./rhythm/arcaea/android/) (带有 `c` 后缀，比如 `arcaea_v4.2.1c_arm64-v8a.apk` ) 、[Play 版](./rhythm/arcaea/android/play/) 、[NS 版](./rhythm/arcaea/ns/) 和 [iOS 版](./rhythm/arcaea/ios/)
 
