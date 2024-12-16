@@ -53,8 +53,8 @@
    - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ&link=./software/game/pvz/) PvZ
    - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=[rhy_01_odusage_urlenc]&cacheSeconds=3600&link=./software/game/rhythm/) 音游
 4. ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) 编曲相关
-   - ![](https://img.shields.io/badge/Arrangement-blue?label=Vocaloid&link=./software/arrangement/flstudio/) FLStudio
-   - ![](https://img.shields.io/badge/Arrangement-blue?label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid 各版本软件及声库
+   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=FLStudio&link=./software/arrangement/flstudio/) FLStudio
+   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid 各版本软件及声库
 
 </details>
 

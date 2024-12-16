@@ -2,7 +2,7 @@
 
 > 一个收集各路奇怪资源的分享站
 > 
-> 🔄 数据更新时间: `2024/12/15`
+> 🔄 数据更新时间: `2024/12/17`
 > 
 > 🛠️ 数据同步工具：![](https://img.shields.io/badge/yanshiqwq-blue?logo=github&label=e5_usage_sync&link=https://github.com/yanshiqwq/e5_usage_sync&cacheSeconds=3600)
 > 
@@ -16,11 +16,11 @@
 > 
 > 查看本站运行状况：[`UptimeRobot`](https://stats.uptimerobot.com/vkKLvk2A1a)
 
-## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.484%20TiB&cacheSeconds=3600)
+## 🏷 分盘列表 ![](https://img.shields.io/badge/Root-orange?logo=DPD&label=6.463%20TiB&cacheSeconds=3600)
 
 | 盘符  | Total           | Repository       | Software        | System           | Rhythm           | Media            |
 | --- | --------------- | ---------------- | --------------- | ---------------- | ---------------- | ---------------- |
-| 大小  | 6.484 TiB | 94.377 GiB | 3.674 TiB | 1.868 TiB | 223.797 GiB | 646.416 GiB |
+| 大小  | 6.463 TiB | 79.886 GiB | 3.670 TiB | 1.865 TiB | 223.982 GiB | 646.416 GiB |
 | 配额  | 125.0 TB        | 5.0 TB           | 5.0 TB          | 5.0 TB           | 5.0 TB           | 5.0 TB           |
 
 ### 🎤 标识介绍
@@ -37,7 +37,7 @@
 
 </details>
 
-### 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.674%20TiB&cacheSeconds=3600)
+### 💾 [软件](./software/) ![](https://img.shields.io/badge/Software-orange?logo=DPD&label=3.670%20TiB&cacheSeconds=3600)
 
 <details>
 <summary>【查看详情】</summary>
@@ -51,14 +51,14 @@
    - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Minecraft&link=./software/game/mc/) Minecraft
    - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=Galgame&link=./software/game/galgame/) Galgame
    - ![](https://img.shields.io/badge/Game-blue?logo=filedotio&label=PvZ&link=./software/game/pvz/) PvZ
-   - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=223.797%20GiB&cacheSeconds=3600&link=./software/game/rhythm/) 音游
+   - ![](https://img.shields.io/badge/Rhythm-orange?logo=DPD&label=223.982%20GiB&cacheSeconds=3600&link=./software/game/rhythm/) 音游
 4. ![](https://img.shields.io/badge/Software-green?logo=onlyoffice&label=Arrangement&link=./software/arrangement/) 编曲相关
-   - ![](https://img.shields.io/badge/Arrangement-blue?label=Vocaloid&link=./software/arrangement/flstudio/) FLStudio
-   - ![](https://img.shields.io/badge/Arrangement-blue?label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid 各版本软件及声库
+   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=FLStudio&link=./software/arrangement/flstudio/) FLStudio
+   - ![](https://img.shields.io/badge/Arrangement-blue?logo=filedotio&label=Vocaloid&link=./software/arrangement/vocaloid/) Vocaloid 各版本软件及声库
 
 </details>
 
-### 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=1.868%20TiB&cacheSeconds=3600)
+### 🖥 [系统](./system/) ![](https://img.shields.io/badge/System-orange?logo=DPD&label=1.865%20TiB&cacheSeconds=3600)
 
 <details>
 <summary>【查看详情】</summary>
